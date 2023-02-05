@@ -9,8 +9,8 @@ I am currently a senior in Columbia University, and I am originally from Victorv
 ## Experience
 I have a background in full stack applications, with my front-end work being contracted and my back-end work used in an applications for the DOD and Goldman Sachs.
 
-## Education
 | | | | |
+|:--:|:--:|:--:|:--:|
 | <img width="75" src="./goldman.png" alt="Goldman Sachs"></img> | [Goldman Sachs](https://developer.gs.com/discover/home) | Summer Analyst | 2022 |
 | <img width="75" src="./columbia.png" alt="Columbia"></img> | [Columbia University](https://www.columbia.edu/) | Undergraduate Student | 2019-2023 |
 
